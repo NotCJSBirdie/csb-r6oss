@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-props"]=this["webpackJsonpreact-props"]||[]).push([[0],{4:function(e,n,t){"use strict";t.r(n);t(1);var r=t(3),s=t.n(r),c=t(0);function o(e){return Object(c.jsxs)("h2",{children:[" I am a ",e.version,"!!!"]})}function h(){return Object(c.jsxs)(c.Fragment,{children:[Object(c.jsx)("h1",{children:" What kind of phone do I have? "}),Object(c.jsx)(o,{version:"Iphone"})]})}s.a.render(Object(c.jsx)(h,{}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.59ed2a3b.chunk.js.map
